@@ -1,0 +1,36 @@
+.img-fluid {
+  max-height: 200px;
+}
+
+.container {
+  background-color: rgb(126, 120, 120);
+}
+
+.card-header {
+  background-color: black;
+  color: white;
+}
+
+.card-text {
+  color: white;
+  font-size: 13px;
+  margin-bottom: 4px;
+}
+
+.card-body {
+  background-color: rgb(255, 228, 196);
+}
+
+.btn-outline-secondary {
+  color: white;
+  border-color: white;
+}
+
+#td {
+  font-size: 15px;
+  border: 2px solid black;
+}
+
+table {
+  margin-top: 10px;
+}
