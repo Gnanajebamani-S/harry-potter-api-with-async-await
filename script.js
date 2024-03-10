@@ -2,7 +2,7 @@
 
 let header = document.createElement("h1");
 header.setAttribute("class", "heading text-center");
-header.innerText = "HARRY POTTER CAST";
+header.innerText = "HARRY POTTER CHARACTER";
 
 // document.body.append(header); //appende the header to the body
 
